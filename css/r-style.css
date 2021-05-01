@@ -1,0 +1,37 @@
+
+/********start header section***********/
+.header{
+	background: #D1E7DD;
+}
+.logo{
+	display: inline-block;
+}
+.logo h1{
+	color: #0C4128;
+}
+.menu{
+	overflow: hidden;
+}
+.menu ul{
+	margin-top: 10px;
+	overflow: hidden;
+}
+.menu ul li{
+	margin-right: 55px;
+	list-style: none;
+	float: left;
+	display: block;
+	
+}
+.menu ul li a{
+	font-size: 25px;
+	text-decoration: none;
+	color: #0C4128;
+	display: block;
+	
+}
+/********end header section***********/
+.mb-10{
+	margin-bottom: 400px;
+	margin-top: 50px;
+}

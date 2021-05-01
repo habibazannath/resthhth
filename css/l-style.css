@@ -1,0 +1,76 @@
+
+/********start header section***********/
+.header{
+	background: #D1E7DD;
+}
+.logo{
+	display: inline-block;
+}
+.logo h1{
+	color: #0C4128;
+}
+.menu{
+	overflow: hidden;
+}
+.menu ul{
+	margin-top: 10px;
+	overflow: hidden;
+}
+.menu ul li{
+	margin-right: 55px;
+	list-style: none;
+	float: left;
+	display: block;
+	
+}
+.menu ul li a{
+	font-size: 25px;
+	text-decoration: none;
+	color: #0C4128;
+	display: block;
+	
+}
+/********end header section***********/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box4{
+	min-height: 100px;
+	background-color: teal;
+	
+}
+.blog1{
+	
+}
+.blog3{
+	margin-top: 100px;
+	margin-bottom: 10px;
+}
+.blog2{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.box2{
+	min-height: 100px;
+	background-color: red;
+	/**border: 10px solid;**/
+}
+.box3{
+	min-height: 100px;
+	background-color: green;
+	/**border: 10px solid;**/
+}
+
+
